@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.idea/
+.vscode/
+*:Zone.Identifier
+
+demo_output/
+*.png
+*.json
+!demo_output/.gitkeep
